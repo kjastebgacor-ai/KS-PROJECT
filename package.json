@@ -1,0 +1,9 @@
+{
+  "name": "ks-bypass",
+  "version": "1.0.0",
+  "description": "KS-Bypass URL resolver for ordinary HTTP redirect shortlinks",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^4.21.2" }
+}
